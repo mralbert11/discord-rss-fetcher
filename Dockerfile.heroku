@@ -1,1 +1,1 @@
-FROM mralbert11/discord-rss-fetcher:latest
+FROM benjihiggins/discord-rss-fetcher:latest
