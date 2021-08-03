@@ -11,7 +11,7 @@
         "required": true
       }
     },
-    "repository": "https://github.com/mralbert/discord-rss-fetcher",
+    "repository": "https://github.com/mralbert11/discord-rss-fetcher",
     "stack": "container",
     "formation": {
       "worker": {
